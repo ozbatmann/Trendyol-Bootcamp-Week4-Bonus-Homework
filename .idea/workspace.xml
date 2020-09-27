@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2771d734-14a1-451e-9267-6b4d5e49eb3b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.6.3-bin/1iopthnavndlasol9gbrbg6bf2/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i6mrjvgIuSgWtWuyFjx4USAsCC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager" selected="JUnit.RoverTest">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="toy-robot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.trendyol.toyrobot.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.trendyol.toyrobot.domain" />
+      <option name="MAIN_CLASS_NAME" value="com.trendyol.toyrobot.domain.RoverTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoverTest.should_move_forward_when_compass_is_east" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="toy-robot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.trendyol.toyrobot.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.trendyol.toyrobot.domain" />
+      <option name="MAIN_CLASS_NAME" value="com.trendyol.toyrobot.domain.RoverTest" />
+      <option name="METHOD_NAME" value="should_move_forward_when_compass_is_east" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToyRobotApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="toy-robot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.trendyol.toyrobot.ToyRobotApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RoverTest" />
+        <item itemvalue="JUnit.RoverTest.should_move_forward_when_compass_is_east" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2771d734-14a1-451e-9267-6b4d5e49eb3b" name="Default Changelist" comment="" />
+      <created>1601236617180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601236617180</updated>
+      <workItem from="1601236618464" duration="3253000" />
+      <workItem from="1601240616695" duration="9444000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2426" y="-253" key="#com.intellij.ide.util.MemberChooser" timestamp="1601240973524">
+      <screen x="1680" y="-466" width="1920" height="1057" />
+    </state>
+    <state x="653" y="217" key="#com.intellij.ide.util.MemberChooser/0.23.1680.961@0.23.1680.961" timestamp="1601239256196" />
+    <state x="2426" y="-253" key="#com.intellij.ide.util.MemberChooser/1680.-466.1920.1057/0.23.1680.963@1680.-466.1920.1057" timestamp="1601240973524" />
+    <state x="2432" y="-466" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601243398600">
+      <screen x="1680" y="-466" width="1920" height="1057" />
+    </state>
+    <state x="2432" y="-466" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1680.-466.1920.1057/0.23.1680.963@1680.-466.1920.1057" timestamp="1601243398600" />
+    <state x="2403" y="-227" width="651" height="579" key="#xdebugger.evaluate" timestamp="1601249411950">
+      <screen x="1680" y="-466" width="1920" height="1057" />
+    </state>
+    <state x="2403" y="-227" width="651" height="579" key="#xdebugger.evaluate/1680.-466.1920.1057/0.23.1680.963@1680.-466.1920.1057" timestamp="1601249411950" />
+    <state width="494" height="466" key="DebuggerActiveHint" timestamp="1601249506421">
+      <screen x="1680" y="-466" width="1920" height="1057" />
+    </state>
+    <state width="494" height="466" key="DebuggerActiveHint/1680.-466.1920.1057/0.23.1680.963@1680.-466.1920.1057" timestamp="1601249506421" />
+    <state width="1878" height="297" key="GridCell.Tab.0.bottom" timestamp="1601250310535">
+      <screen x="1680" y="-466" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="297" key="GridCell.Tab.0.bottom/1680.-466.1920.1057/0.23.1680.963@1680.-466.1920.1057" timestamp="1601250028587" />
+    <state width="1878" height="297" key="GridCell.Tab.0.bottom/1680.-466.1920.1057/0.23.1680.965@1680.-466.1920.1057" timestamp="1601250310535" />
+    <state width="1878" height="297" key="GridCell.Tab.0.center" timestamp="1601250310534">
+      <screen x="1680" y="-466" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="297" key="GridCell.Tab.0.center/1680.-466.1920.1057/0.23.1680.963@1680.-466.1920.1057" timestamp="1601250028585" />
+    <state width="1878" height="297" key="GridCell.Tab.0.center/1680.-466.1920.1057/0.23.1680.965@1680.-466.1920.1057" timestamp="1601250310534" />
+    <state width="1878" height="297" key="GridCell.Tab.0.left" timestamp="1601250310533">
+      <screen x="1680" y="-466" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="297" key="GridCell.Tab.0.left/1680.-466.1920.1057/0.23.1680.963@1680.-466.1920.1057" timestamp="1601250028585" />
+    <state width="1878" height="297" key="GridCell.Tab.0.left/1680.-466.1920.1057/0.23.1680.965@1680.-466.1920.1057" timestamp="1601250310533" />
+    <state width="1878" height="297" key="GridCell.Tab.0.right" timestamp="1601250310534">
+      <screen x="1680" y="-466" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="297" key="GridCell.Tab.0.right/1680.-466.1920.1057/0.23.1680.963@1680.-466.1920.1057" timestamp="1601250028586" />
+    <state width="1878" height="297" key="GridCell.Tab.0.right/1680.-466.1920.1057/0.23.1680.965@1680.-466.1920.1057" timestamp="1601250310534" />
+    <state width="1878" height="297" key="GridCell.Tab.1.bottom" timestamp="1601250310415">
+      <screen x="1680" y="-466" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="297" key="GridCell.Tab.1.bottom/1680.-466.1920.1057/0.23.1680.963@1680.-466.1920.1057" timestamp="1601250028474" />
+    <state width="1878" height="297" key="GridCell.Tab.1.bottom/1680.-466.1920.1057/0.23.1680.965@1680.-466.1920.1057" timestamp="1601250310415" />
+    <state width="1878" height="297" key="GridCell.Tab.1.center" timestamp="1601250310414">
+      <screen x="1680" y="-466" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="297" key="GridCell.Tab.1.center/1680.-466.1920.1057/0.23.1680.963@1680.-466.1920.1057" timestamp="1601250028473" />
+    <state width="1878" height="297" key="GridCell.Tab.1.center/1680.-466.1920.1057/0.23.1680.965@1680.-466.1920.1057" timestamp="1601250310414" />
+    <state width="1878" height="297" key="GridCell.Tab.1.left" timestamp="1601250310413">
+      <screen x="1680" y="-466" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="297" key="GridCell.Tab.1.left/1680.-466.1920.1057/0.23.1680.963@1680.-466.1920.1057" timestamp="1601250028472" />
+    <state width="1878" height="297" key="GridCell.Tab.1.left/1680.-466.1920.1057/0.23.1680.965@1680.-466.1920.1057" timestamp="1601250310413" />
+    <state width="1878" height="297" key="GridCell.Tab.1.right" timestamp="1601250310415">
+      <screen x="1680" y="-466" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="297" key="GridCell.Tab.1.right/1680.-466.1920.1057/0.23.1680.963@1680.-466.1920.1057" timestamp="1601250028473" />
+    <state width="1878" height="297" key="GridCell.Tab.1.right/1680.-466.1920.1057/0.23.1680.965@1680.-466.1920.1057" timestamp="1601250310415" />
+    <state width="1878" height="297" key="GridCell.Tab.2.bottom" timestamp="1601250310417">
+      <screen x="1680" y="-466" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="297" key="GridCell.Tab.2.bottom/1680.-466.1920.1057/0.23.1680.963@1680.-466.1920.1057" timestamp="1601250028464" />
+    <state width="1878" height="297" key="GridCell.Tab.2.bottom/1680.-466.1920.1057/0.23.1680.965@1680.-466.1920.1057" timestamp="1601250310417" />
+    <state width="1878" height="297" key="GridCell.Tab.2.center" timestamp="1601250310416">
+      <screen x="1680" y="-466" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="297" key="GridCell.Tab.2.center/1680.-466.1920.1057/0.23.1680.963@1680.-466.1920.1057" timestamp="1601250028463" />
+    <state width="1878" height="297" key="GridCell.Tab.2.center/1680.-466.1920.1057/0.23.1680.965@1680.-466.1920.1057" timestamp="1601250310416" />
+    <state width="1878" height="297" key="GridCell.Tab.2.left" timestamp="1601250310416">
+      <screen x="1680" y="-466" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="297" key="GridCell.Tab.2.left/1680.-466.1920.1057/0.23.1680.963@1680.-466.1920.1057" timestamp="1601250028462" />
+    <state width="1878" height="297" key="GridCell.Tab.2.left/1680.-466.1920.1057/0.23.1680.965@1680.-466.1920.1057" timestamp="1601250310416" />
+    <state width="1878" height="297" key="GridCell.Tab.2.right" timestamp="1601250310417">
+      <screen x="1680" y="-466" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="297" key="GridCell.Tab.2.right/1680.-466.1920.1057/0.23.1680.963@1680.-466.1920.1057" timestamp="1601250028464" />
+    <state width="1878" height="297" key="GridCell.Tab.2.right/1680.-466.1920.1057/0.23.1680.965@1680.-466.1920.1057" timestamp="1601250310417" />
+    <state x="1780" y="-366" width="1720" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601249224849">
+      <screen x="1680" y="-466" width="1920" height="1057" />
+    </state>
+    <state x="1780" y="-366" width="1720" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1680.-466.1920.1057/0.23.1680.963@1680.-466.1920.1057" timestamp="1601249224849" />
+  </component>
+</project>
