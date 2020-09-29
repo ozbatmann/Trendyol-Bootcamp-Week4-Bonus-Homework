@@ -22,6 +22,6 @@ public class CouchbaseIndexConfiguration {
 		QueryIndexManager indexManager = couchbaseCluster.queryIndexes();
 
 		indexManager.createPrimaryIndex(couchbaseProperties.getBucketName(),
-				CreatePrimaryQueryIndexOptions.createPrimaryQueryIndexOptions().ignoreIfExists(true));
+				CreatePrimaryQueryIndexOptions.createPrimaryQueryIndexOptions().ignoreIfExists(Boolean.TRUE));
 	}
 }
